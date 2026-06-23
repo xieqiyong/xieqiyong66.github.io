@@ -1,134 +1,154 @@
-# 谢其勇
+# Qiyong Xie
 
-## 👨‍💻 个人简介
-- **学历**：本科
-- **工作经验**：8年以上
-- **电话**：156****9597
-- **邮箱**：156****9597@163.com
-- **GitHub**：https://github.com/xieqiyong
-- **开源项目**：http://www.jmeter.online
+## 👨‍💻 Profile
 
----
-
-## 🎯 职业方向
-**高级软件工程师 → AI工程师（向 AI Agent 与大模型训练方向转型）**
+* **Education**: Bachelor's Degree
+* **Work Experience**: 8+ years
+* **Phone**: 156****9597
+* **Email**: 156****[9597@163.com](mailto:9597@163.com)
+* **GitHub**: https://github.com/xieqiyong
+* **Open-source Project**: http://www.jmeter.online
 
 ---
 
-## 🧠 技术能力
+## 🎯 Career Objective
 
-### 后端开发
-- 扎实的 Java 基础，具备高并发、多线程开发经验
-- 深入理解 JVM（GC 调优、类加载机制）
-
-### 微服务与分布式系统
-- 熟练使用 Spring Cloud、Dubbo
-- 具备分布式系统架构设计经验
-- 熟悉 Netty 底层通信开发
-
-### 中间件
-- Redis（分布式锁、缓存设计）
-- Kafka / RocketMQ（消息队列）
-- Elasticsearch（集群优化、搜索与推荐）
-
-### 数据库
-- MySQL / PostgreSQL / ArangoDB（事务、性能调优、Canal 数据同步）
-- MyBatis / Hibernate（源码级理解）
-
-### 云原生
-- Docker / Kubernetes（容器化与部署）
-- Prometheus / Grafana（监控体系）
-- OpenTelemetry（分布式链路追踪）
-
-### 全栈与数据方向
-- Node.js / Electron（跨平台应用开发）
-- JMeter（性能测试引擎）
-- Flink / ClickHouse（大数据实时处理）
-
-### AI 与编程语言
-- Python、Go
-- 具备 LangChain 与 AI Agent 实践经验
-- 构建自动化工作流（聊天机器人、数据流水线）
-- 当前重点研究：**大语言模型（LLM）与模型训练**
-
-### 架构能力
-- 系统架构设计与性能优化
-- 具备大型系统重构与升级经验
+**Senior Software Engineer → AI Engineer**
+Transitioning toward **AI Agent development and large language model training**.
 
 ---
 
-## 🚀 核心优势
-- **行业经验丰富**：金融、电商、能源等行业
-- **全链路负责能力**：架构设计 → 开发实现 → DevOps 运维
-- **全栈思维**：后端、前端、基础设施与数据融合能力
-- **团队管理经验**：带领5人团队完成企业级项目交付
+## 🧠 Technical Skills
+
+### Backend Development
+
+* Solid Java foundation with hands-on experience in high-concurrency and multi-threaded development
+* Deep understanding of JVM internals, including GC tuning and class loading mechanisms
+
+### Microservices & Distributed Systems
+
+* Proficient in Spring Cloud and Dubbo
+* Experienced in distributed system architecture design
+* Familiar with low-level communication development using Netty
+
+### Middleware
+
+* Redis: distributed locks and cache design
+* Kafka / RocketMQ: message queue systems
+* Elasticsearch: cluster optimization, search, and recommendation scenarios
+
+### Databases
+
+* MySQL / PostgreSQL / ArangoDB: transactions, performance tuning, and Canal-based data synchronization
+* MyBatis / Hibernate: source-code-level understanding
+
+### Cloud Native
+
+* Docker / Kubernetes: containerization and deployment
+* Prometheus / Grafana: monitoring and observability
+* OpenTelemetry: distributed tracing
+
+### Full-stack & Data Engineering
+
+* Node.js / Electron: cross-platform application development
+* JMeter: performance testing engine
+* Flink / ClickHouse: real-time big data processing
+
+### AI & Programming Languages
+
+* Python and Go
+* Practical experience with LangChain and AI Agent development
+* Built automated workflows, including chatbots and data pipelines
+* Current research focus: **Large Language Models and model training**
+
+### Architecture
+
+* System architecture design and performance optimization
+* Experienced in large-scale system refactoring and upgrading
 
 ---
 
-# 📦 项目经历
+## 🚀 Core Strengths
 
-## 知识图谱平台（技术负责人）
-**技术栈**：SpringBoot、Nacos、Redis、Kafka、Elasticsearch、Flink、Neo4j
-
-- 复杂查询性能优化：5秒 → 200毫秒
-- 重构微服务架构，部署成功率达到 99.9%
-- 集成 Prometheus、Grafana、SkyWalking 构建可观测体系
+* **Rich industry experience**: finance, e-commerce, energy, and enterprise systems
+* **End-to-end delivery capability**: architecture design, development, DevOps, and operations
+* **Full-stack mindset**: backend, frontend, infrastructure, and data engineering integration
+* **Team leadership experience**: led a 5-person team to deliver enterprise-level projects
 
 ---
 
-## 性能测试平台（架构师 / 后端 / 项目经理）
-**技术栈**：SpringBoot、Redis、Kafka、Flink、ClickHouse
+# 📦 Project Experience
 
-- 设计实时流式架构（Flink → Kafka Streams）
-- 构建分布式锁（Redis + Redisson）与文件上传系统（MinIO）
-- 支持 AIX / Windows / Linux 跨平台部署
+## Knowledge Graph Platform — Technical Lead
 
----
+**Tech Stack**: Spring Boot, Nacos, Redis, Kafka, Elasticsearch, Flink, Neo4j
 
-## 压测引擎与监控系统
-**技术栈**：JMeter、Netty、Docker、Kubernetes
-
-- 开发集成 OpenTelemetry 的 JMeter 插件
-- 基于 Netty 设计进程间通信私有协议
-- 实现压测系统自动扩缩容
+* Optimized complex query performance from 5 seconds to 200 milliseconds
+* Refactored the microservices architecture and improved deployment success rate to 99.9%
+* Integrated Prometheus, Grafana, and SkyWalking to build a comprehensive observability system
 
 ---
 
-## CRM 系统（后端 / 项目经理）
-**技术栈**：SpringBoot、Elasticsearch、Canal、RocketMQ
+## Performance Testing Platform — Architect / Backend Engineer / Project Manager
 
-- 支撑高峰流量（QPS 100+）并实现异步化处理
-- 使用 SkyWalking + ELK 提升日志分析效率 70%
-- 基于 XXL-JOB 实现分布式任务调度
+**Tech Stack**: Spring Boot, Redis, Kafka, Flink, ClickHouse
 
----
-
-## 电商租赁平台
-**技术栈**：SpringBoot、Redis、RabbitMQ
-
-- 设计秒杀系统（15k QPS，零超卖）
-- 构建风控系统，拦截率提升 25%
-- 开发统一短信服务平台
+* Designed a real-time streaming architecture based on Flink and Kafka Streams
+* Built a distributed locking solution using Redis and Redisson, as well as a file upload system based on MinIO
+* Supported cross-platform deployment on AIX, Windows, and Linux
 
 ---
 
-# 💼 工作经历
-- **2025 – 2026** ｜ 杭州乘云数字 ｜ 技术专家
-- **2024 – 2025** ｜ 海致星图（北京） ｜ 技术专家
-- **2021 – 2024** ｜ 奔马网络（杭州） ｜ 高级软件工程师
-- **2016 – 2021** ｜ 融易算科技（北京） ｜ 高级 Java 工程师
+## Load Testing Engine & Monitoring System
+
+**Tech Stack**: JMeter, Netty, Docker, Kubernetes
+
+* Developed a JMeter plugin integrated with OpenTelemetry
+* Designed a private inter-process communication protocol based on Netty
+* Implemented auto-scaling for the load testing system
 
 ---
 
-# 🏆 荣誉与证书
-- 全国计算机等级考试（二级）
-- 优秀员工
-- 十佳歌手 🎤
+## CRM System — Backend Engineer / Project Manager
+
+**Tech Stack**: Spring Boot, Elasticsearch, Canal, RocketMQ
+
+* Supported peak traffic with 100+ QPS and implemented asynchronous processing
+* Improved log analysis efficiency by 70% using SkyWalking and ELK
+* Implemented distributed task scheduling based on XXL-JOB
 
 ---
 
-# 🤖 当前研究方向
-- AI Agent 与大语言模型应用
-- 模型训练与微调
-- 基于 LangChain 的自动化系统
-- 面向真实业务场景的 AI 驱动系统构建
+## E-commerce Rental Platform
+
+**Tech Stack**: Spring Boot, Redis, RabbitMQ
+
+* Designed a flash-sale system supporting 15k QPS with zero overselling
+* Built a risk control system and improved interception rate by 25%
+* Developed a unified SMS service platform
+
+---
+
+# 💼 Work Experience
+
+* **2025 – 2026** | Hangzhou Chengyun Digital | Technical Expert
+* **2024 – 2025** | Haizhi StarGraph, Beijing | Technical Expert
+* **2021 – 2024** | Benma Network, Hangzhou | Senior Software Engineer
+* **2016 – 2021** | Rongyisuan Technology, Beijing | Senior Java Engineer
+
+---
+
+# 🏆 Honors & Certifications
+
+* National Computer Rank Examination Level 2
+* Outstanding Employee Award
+* Top Ten Singer Award 🎤
+
+---
+
+# 🤖 Current Research Focus
+
+* AI Agents and large language model applications
+* Model training and fine-tuning
+* Automation systems based on LangChain
+* AI-driven system development for real-world business scenarios
